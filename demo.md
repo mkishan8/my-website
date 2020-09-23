@@ -1,2 +1,0 @@
-thisis test
-dichak
